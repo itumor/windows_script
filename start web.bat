@@ -8,4 +8,4 @@
 
  start "" https://wiki.dematic.com/display/DEVOPS/Infrastructure+Configurations
  start "" http://docs.ansible.com/ 
- 
+ start "" https://outlook.office.com/owa/?realm=advansys-esc.com&exsvurl=1&ll-cc=1025&modurl=0&path=/mail/inbox
